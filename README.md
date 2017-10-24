@@ -1,1 +1,1 @@
-# ComS228-Java-Data-Structure-
+# ComS228-Java Data Structure
