@@ -1,0 +1,16 @@
+A graph representing a maze
+0: 7,2 
+1: 5,45 
+2: 
+3: 3,33 2,3 
+5: 3,20 
+7: 1,9 9,18 
+9: 
+
+A shortest path in the maze
+Path Length: 2
+Path Cost: 20
+Path: 0 7 9
+real 0.06
+user 0.06
+sys 0.00

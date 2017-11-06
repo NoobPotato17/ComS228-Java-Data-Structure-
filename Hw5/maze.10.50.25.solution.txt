@@ -1,0 +1,14 @@
+A graph representing a maze
+0: 7,2 
+1: 5,45 
+3: 
+5: 
+6: 3,33 
+7: 
+8: 3,20 
+
+A shortest path in the maze
+No path exists
+real 0.05
+user 0.06
+sys 0.00
